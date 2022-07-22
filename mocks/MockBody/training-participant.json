@@ -1,0 +1,80 @@
+{
+    "status": true,
+    "data": [
+        {
+            "status": "work_team_leader",
+            "is_archived": false,
+            "qmli_1": "https://youtube.com",
+            "qmli_2": "https://andrewtani.com",
+            "_id": "60cf6f6c114da383af520da0",
+            "trainee": {
+                "image": "http://3.0.134.177:3004/uploads/Mon%20Jan%2003%202022%2021:25:48%20GMT+0700%20(WIB)-45fccd9f61ad4427b7feb0e1e4ac13a61641219949375.jpeg",
+                "is_verified_icoach": false,
+                "services": [
+                    "61cec60f0f0cc83d07f28b6c",
+                    "61d08c33bb1acd41a03de87b",
+                    "61d3083647480764cdf0c5b4"
+                ],
+                "is_first_visit": false,
+                "followed_icoaches": [
+                    "60750b36ac3e15c076ec4448",
+                    "621e387a740a501cb65caf39"
+                ],
+                "interests": [
+                    "61fead528c49d33767c89971"
+                ],
+                "_id": "60505e7a1b3e7252268511b7",
+                "created": "2021-03-16T07:29:04.889Z",
+                "updated": "2021-03-16T07:29:04.889Z",
+                "event_code": "",
+                "name": "Kharis Isriyanto",
+                "position": "Manager",
+                "department": "IT",
+                "company": "61cfab65bfb9c059204b297c",
+                "email": "kharisisriyant@gmail.com",
+                "phone_number": "0812111111111",
+                "__v": 26,
+                "createdAt": "2021-03-23T12:00:08.397Z",
+                "updatedAt": "2022-06-12T06:21:03.953Z",
+                "description": ""
+            },
+            "work_team": "60cf6f6c114da383af520d9f",
+            "createdAt": "2021-06-20T16:40:12.626Z",
+            "updatedAt": "2022-05-19T16:38:16.409Z",
+            "__v": 0,
+            "journey_team": "6184c2c6356eb8b12aa2ac97",
+            "certificate": "https://wtapi.qmlionline.com/uploads/icc%20feature%20graphic-4ce34e2449ae47c336c6c77ac8c56ea21652978289059.png",
+            "certificate_of_fullfilment": "https://wtapi.qmlionline.com/uploads/EMAIL%20HEADER-b1e3f1394fcac406cc730c892d097f541652978294209.png"
+        },
+        {
+            "status": "digital_talent",
+            "is_archived": false,
+            "qmli_1": "https://abc.cs",
+            "qmli_2": "",
+            "_id": "6184bbfdd54f55f9077e61fd",
+            "trainee": {
+                "image": "",
+                "is_verified_icoach": false,
+                "services": [],
+                "is_first_visit": true,
+                "followed_icoaches": [],
+                "interests": [],
+                "_id": "605d6b7797912f03bab91211",
+                "event_code": "BimBim",
+                "name": "Bimo23",
+                "position": "keren",
+                "department": "keren juga",
+                "company": "60505089803c864c30aa60b3",
+                "email": "impactdiscipleshipcom@gmail.com",
+                "phone_number": "0812345678",
+                "createdAt": "2021-03-26T05:04:55.687Z",
+                "updatedAt": "2021-12-28T14:31:43.835Z",
+                "__v": 1
+            },
+            "work_team": "6184bbfdd54f55f9077e61f9",
+            "createdAt": "2021-11-05T05:07:09.641Z",
+            "updatedAt": "2022-05-18T15:36:56.602Z",
+            "__v": 0
+        }
+    ]
+}

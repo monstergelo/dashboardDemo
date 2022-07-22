@@ -1,0 +1,21 @@
+{
+  "status": true,
+  "data": [
+      {
+          "_id": "60cff1bddc7ea8db37ece5c6",
+          "date": "2021-06-21T08:00:00.000Z",
+          "program": "Test",
+          "createdAt": "2021-06-21T01:56:13.304Z",
+          "updatedAt": "2021-09-02T02:00:22.312Z",
+          "__v": 0
+      },
+      {
+          "_id": "613029ce988fb53a68c6dd1b",
+          "date": "2021-02-21T19:02:11.000Z",
+          "program": "Test program 2",
+          "createdAt": "2021-09-02T01:33:02.326Z",
+          "updatedAt": "2021-09-02T02:00:47.307Z",
+          "__v": 0
+      }
+  ]
+}

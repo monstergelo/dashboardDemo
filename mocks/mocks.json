@@ -1,0 +1,50 @@
+[
+  {
+    "id": "base",
+    "routesVariants": [
+      "get-profile:success",
+
+      "get-company:success",
+      "modify-company:success",
+      "add-company:success",
+      "password-company:success",
+      "get-companies:success",
+
+      "get-trainee:success",
+      "modify-trainee:success",
+      "add-trainee:success",
+      "password-trainee:success",
+      "get-trainees:success",
+
+      "get-training:success",
+      "modify-training:success",
+      "add-training:success",
+      "password-training:success",
+      "get-trainings:success",
+
+      "get-training-participant:success",
+      "modify-training-participant:success",
+      "add-training-participant:success",
+
+      "get-training-schedule:success",
+      "modify-training-schedule:success",
+      "add-training-schedule:success",
+
+      "get-pp:success",
+      "modify-pp:success",
+      "add-pp:success",
+      "password-pp:success",
+      "get-ppies:success",
+
+      "get-pp-page:success",
+      "modify-pp-page:success",
+      "add-pp-page:success",
+
+      "get-admins:success",
+      "modify-admin:success",
+      "add-admin:success",
+      "password-admin:success",
+      "get-admin:success"
+    ]
+  }
+]
