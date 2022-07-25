@@ -1,1 +1,1 @@
-web: npm run mocks
+web: npm run mocks -- --no-plugins.inquirerCli.enabled
