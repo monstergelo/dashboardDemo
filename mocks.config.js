@@ -35,7 +35,7 @@ module.exports = {
   },
   server: {
     // Port number for the server to be listening at
-    port: process.env.PORT || 80,
+    port: Number(process.env.PORT) || 80,
     // Host for the server
     //host: "0.0.0.0",
     cors: {
