@@ -63,6 +63,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "mocks" : "mocks-server",
+    "heroku-postbuild" : "mocks-server",
     "dist": "npm-run-all --parallel css js",
     "test": "react-scripts test",
     "test:cov": "npm test -- --coverage --watchAll=false",
