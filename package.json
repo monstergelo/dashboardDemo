@@ -63,7 +63,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "mocks" : "mocks-server",
-    "heroku-postbuild" : "mocks-server",
     "dist": "npm-run-all --parallel css js",
     "test": "react-scripts test",
     "test:cov": "npm test -- --coverage --watchAll=false",
@@ -71,6 +70,7 @@
     "eject": "react-scripts eject",
     "changelog": "auto-changelog --starting-version 3.0.0 --commit-limit false --hide-credit"
   },
+  "heroku-run-build-script": true,
   "bugs": {
     "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
   },
