@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
-export const baseURL = 'http://localhost:80';
+export const baseURL = 'https://demo-dashboard-mock-server.herokuapp.com';
 
 const access_token = localStorage.getItem('access_token')
 
