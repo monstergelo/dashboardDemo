@@ -3,9 +3,9 @@
   "data": {
       "status": "system_admin",
       "_id": "6080e2c863073d7ea54092b6",
-      "name": "Kharis",
-      "email": "kharisisriyant@gmail.com",
-      "hash_password": "$2b$07$CiJ1DX97q988MCU2osZU3OpC5guMJzh/WzGJWTbvtPF3WgkkfExxS",
+      "name": "name mock",
+      "email": "email@email.com",
+      "hash_password": "aaa",
       "createdAt": "2021-04-22T02:43:20.745Z",
       "updatedAt": "2021-12-26T13:08:33.203Z",
       "__v": 0,
@@ -57,7 +57,7 @@
               "ISHARE_DELETE"
           ],
           "_id": "621c29dae25b3e0992f7aa44",
-          "name": "System Admin Role",
+          "name": "name mock",
           "description": "Role for System Admin",
           "parameters": {},
           "createdAt": "2022-02-28T01:48:10.109Z",

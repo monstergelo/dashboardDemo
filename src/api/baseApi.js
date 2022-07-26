@@ -1,9 +1,8 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
-export const baseURL = 'http://localhost:3100';
-// export const baseURL = 'http://wtapi.qmlionline.com/admin';
-// export const baseURL = 'http://localhost:3003/admin'
+export const baseURL = 'http://localhost:80';
+
 const access_token = localStorage.getItem('access_token')
 
 export const baseApiConfig = {

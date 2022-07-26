@@ -19,7 +19,7 @@ const loading = (
 const TheContent = () => {
   const {data} = useApi({ url: 'profile'});
 
-  const aunthenticated = localStorage.getItem('access_token');
+  const aunthenticated = true;
   const status = data ? data.status : null;
 
   return (
